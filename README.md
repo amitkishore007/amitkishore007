@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Python.
 - 📫 Reach me at amit.kishore93@gmail.com
 
-<h2 align="left">Hi 👋! My name is Amit Kishore and 👀 I’m interested in AI and Web technologies like JavaScript, Angular, ReactJS etc, 📫 Reach me at amit.kishore93@gmail.com</h2>
-
 ###
 
 <div align="center">
